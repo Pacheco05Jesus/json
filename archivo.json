@@ -1,34 +1,14 @@
 {
-  lista: [
-  {
-    "name": "Juan Pérez"
-  },
-  {
-    "name": "María González"
-  },
-  {
-    "name": "Carlos Rodríguez"
-  },
-  {
-    "name": "Ana Martínez"
-  },
-  {
-    "name": "Luis Hernández"
-  },
-  {
-    "name": "Lucía Ramírez"
-  },
-  {
-    "name": "Pedro Torres"
-  },
-  {
-    "name": "Sofía Morales"
-  },
-  {
-    "name": "Andrés Castro"
-  },
-  {
-    "name": "Elena Navarro"
-  }
+  "lista": [
+    { "name": "Juan Pérez" },
+    { "name": "María González" },
+    { "name": "Carlos Rodríguez" },
+    { "name": "Ana Martínez" },
+    { "name": "Luis Hernández" },
+    { "name": "Lucía Ramírez" },
+    { "name": "Pedro Torres" },
+    { "name": "Sofía Morales" },
+    { "name": "Andrés Castro" },
+    { "name": "Elena Navarro" }
   ]
 }
