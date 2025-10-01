@@ -1,4 +1,5 @@
-[
+{
+  lista: [
   {
     "name": "Juan Pérez"
   },
@@ -29,4 +30,5 @@
   {
     "name": "Elena Navarro"
   }
-]
+  ]
+}
